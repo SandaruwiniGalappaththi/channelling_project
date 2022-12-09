@@ -36,7 +36,7 @@ if(isset($_GET['isfound'])){
 <body>
 <div id="alt" class="alert alert-success alert-dismissible lp">
     <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-    <strong>Appointment is Done Successfully!</strong> 
+    <strong>You have Registered Successfully. Please remember your Email and Password for Login process</strong> 
   </div>
 
   <a href="register.html"><button class="bk">BACK</button></a>
