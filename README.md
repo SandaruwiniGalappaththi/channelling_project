@@ -1,2 +1,2 @@
-# new_center
-for updated version
+# channelling_project
+first year second semester project
